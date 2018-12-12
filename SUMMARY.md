@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Capabilities](capabilites/README.md)
+* [Components](components/README.md)
+* [Roles](roles/README.md)
+* [Examples](examples/README.md)
+
 
